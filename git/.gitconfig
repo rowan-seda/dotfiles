@@ -18,10 +18,10 @@
   t = tag
   preclean = clean -ndxf
 [user]
-  name = thorn
-  email = vestigialthorn@gmail.com
+  name = Rowan Seda
+  email = rowan.seda@gmail.com
 [credential]
-	username = vestigial-thorn
+	username = rowan-seda
 	helper = cache
 [init]
 	defaultBranch = main
